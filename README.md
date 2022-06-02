@@ -77,7 +77,6 @@ Here are some ideas to get you started:
 
 
 
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/niloy0) <a href="https://github.com/niloy0"></a>
 
 </p>
@@ -88,6 +87,17 @@ Here are some ideas to get you started:
 
 ![Alt text](https://github.com/MRVIVEK-CODER/Decompiler/raw/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
 
+<p align="center">
+<a href="https://github.com/FAHIM404-CYBER/Old-2005"><img title="Old-2005" src="https://github-readme-stats.vercel.app/api/pin/?username=FAHIM404-CYBER&repo=Old-2005&theme=chartreuse-dark"></a>
+
+<p align="center">
+<a href="https://github.com/FAHIM404-CYBER /Indoscript"><img title="Indoscript" src="https://github-readme-stats.vercel.app/api/pin/?username=FAHIM404-CYBER&repo=Indoscript&theme=highcontrast"></a>
+
+<p align="center">
+<a href="https://github.com/FAHIM404-CYBER/FILE-CLONING"><img title="FILE-CLONING" src="https://github-readme-stats.vercel.app/api/pin/?username=FAHIM404-CYBER&repo=FILE-CLONING&theme=midnight-purple"></a>
+
+<p align="center">
+<a href="https://github.com/FAHIM404-CYBER/ALL-IN-ONE"><img title="ALL-IN-ONE" src="https://github-readme-stats.vercel.app/api/pin/?username=FAHIM404-CYBER&repo=ALL-IN-ONE&theme=vision-friendly-dark"></a>
 
 
 > DATABASE:
