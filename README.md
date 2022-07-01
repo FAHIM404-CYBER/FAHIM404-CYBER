@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 > GITHUB STATES :
 
-<a href="https://github.com/naiyan-official"><img width=550 src="https://github-profile-trophy.vercel.app/?username=niloy0&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+<a href="https://github.com/naiyan-official"><img width=550 src="https://github-profile-trophy.vercel.app/?username=FAHIM404-CYBER&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FAHIM404-CYBER&theme=merko)
 
